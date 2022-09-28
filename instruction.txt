@@ -1,0 +1,40 @@
+29inr / Months
+
+
+How to get Youtube Membership with
+
+googlepay
+phonepay
+amazonpay
+
+There are 2 types of html tags
+
+1. Paired   Tag
+2. Singular Tag
+
+
+
+There are 5 steps of git command by which you can upload your local project to github
+
+A. Create a repository on github with
+			https://github.com/new
+B. Copy the repo link
+			Code > Copy
+
+1. git init (initialization)
+2. git remote add origin <repo_link>
+3. git add .  (Stagging)
+4. git commit -m "message"
+5. git push origin <branch_name>
+			eg.
+		git push origin master
+
+
+If you want to change the origin repo link
+
+git remote set-url origin <repo_link>
+
+
+
+
+
